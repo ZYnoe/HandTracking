@@ -4,6 +4,8 @@ import cv2
 import mediapipe as mp 
 import time
 
+#https://youtu.be/01sAkU_NvOY?t=1194
+
 cap = cv2.VideoCapture(1)
 
 mpHands = mp.solutions.hands
